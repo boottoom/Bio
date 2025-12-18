@@ -1,0 +1,38 @@
+
+body {
+    /* Добавить шрифт ко всему сайту */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    /* Изменить параметры изображения */
+    width: 300px;
+    height: 300px;
+    max-width: 1000px;
+}
+
+a {
+    /* Задать цвет */
+    color: blueviolet;
+}
+
+ul {
+    /* Убрать точки у списка */
+    list-style-type: none;
+
+    /* Убрать отступ */
+    margin-left: 0;
+    padding-left: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 24px;
+}
